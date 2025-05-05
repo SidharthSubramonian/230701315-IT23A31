@@ -116,7 +116,3 @@ This project is open-source under the MIT License. Feel free to modify and use f
 
 ---
 
-🎞️ Demo Video
-Link: https://drive.google.com/drive/folders/1JmKKvMvIZo7Sv_K5bexaYhO0wmP8sQwV?usp=drive_link
-
----
